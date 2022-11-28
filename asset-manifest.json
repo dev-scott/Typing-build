@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f050d8cb.chunk.css",
+    "main.js": "/static/js/main.630575ac.chunk.js",
+    "main.js.map": "/static/js/main.630575ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/js/2.ad5cb0d7.chunk.js": "/static/js/2.ad5cb0d7.chunk.js",
+    "static/js/2.ad5cb0d7.chunk.js.map": "/static/js/2.ad5cb0d7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f050d8cb.chunk.css.map": "/static/css/main.f050d8cb.chunk.css.map",
+    "static/js/2.ad5cb0d7.chunk.js.LICENSE.txt": "/static/js/2.ad5cb0d7.chunk.js.LICENSE.txt",
+    "static/media/Crain Worker 3 by Streamlinehq.f26fba99.png": "/static/media/Crain Worker 3 by Streamlinehq.f26fba99.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9412c5a0.js",
+    "static/js/2.ad5cb0d7.chunk.js",
+    "static/css/main.f050d8cb.chunk.css",
+    "static/js/main.630575ac.chunk.js"
+  ]
+}
